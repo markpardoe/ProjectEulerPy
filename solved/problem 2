@@ -1,0 +1,11 @@
+previous = 2
+num = 3
+total = 0
+
+while true:
+	num = num + previous
+	previous = num - previous
+	print(num)
+	if (num > 4000000):
+		break
+	else:
