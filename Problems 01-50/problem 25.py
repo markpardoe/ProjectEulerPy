@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=25
 
 index = 2
 limit = 1000

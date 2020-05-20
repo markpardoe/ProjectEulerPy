@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=23
+
 import math
 factor_list = {1 : [1]}  # cache any found factors for a given number
 max_prime = 1  # maxiumum prime number found

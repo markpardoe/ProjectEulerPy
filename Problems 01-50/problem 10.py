@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=10
+
 # Returns list of primes up to the maxValue
 def getPrimes(maxValue):
 	primeList = []

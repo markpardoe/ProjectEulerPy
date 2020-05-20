@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=24
+
 import itertools
 
 limit = 9

@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=58
+
 # Returns set of primes up to the maxValue
 def get_prime_set(maxValue):
 	primeList = set()

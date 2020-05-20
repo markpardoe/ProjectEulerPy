@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=9
+
 import math
 limit = 1000
 product = 0

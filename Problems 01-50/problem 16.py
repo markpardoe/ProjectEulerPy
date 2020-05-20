@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=16
 
 power = 1000
 

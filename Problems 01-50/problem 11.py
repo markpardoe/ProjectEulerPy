@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=11
+
 def load_text_file(file_name):
 	#text_file = open("C:\Code\ProjectEuler\data\problem18_data.txt", "r")
 	text_file = open(file_name, "r")

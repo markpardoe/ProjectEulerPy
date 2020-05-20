@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=28
 
 total = 1  # 1 in centre at start (grd size = 1)
 

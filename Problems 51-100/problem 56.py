@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=56
+
 def sum_of_digits(number):
 
 	total = 0

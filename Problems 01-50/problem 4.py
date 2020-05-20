@@ -1,4 +1,4 @@
-
+# https://projecteuler.net/problem=4
 
 def reverse_slicing(s):
     return s[::-1]

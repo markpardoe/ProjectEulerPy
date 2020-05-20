@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=61
+
 def generate_triangle(min_number, max_number):
 	n = 1
 	results = set()

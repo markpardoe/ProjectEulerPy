@@ -1,3 +1,4 @@
+# https://projecteuler.net/problem=22
 
 def get_name_score(name):
 	total = 0

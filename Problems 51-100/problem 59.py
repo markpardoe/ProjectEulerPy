@@ -1,7 +1,6 @@
+# https://projecteuler.net/problem=59
 
-
-#text_file = open("C:\Code\ProjectEuler\data\problem18_data.txt", "r")
-text_file = open("C:\Code\ProjectEuler\data\p059_cipher.txt", "r")
+text_file = open("G:\Code\ProjectEulerPy\data\p059_cipher.txt", "r")
 data = text_file.readline()
 text_file.close()
 

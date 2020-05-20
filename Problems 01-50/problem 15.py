@@ -1,3 +1,5 @@
+# https://projecteuler.net/problem=15
+
 import numpy as np
 
 cell_size = 20

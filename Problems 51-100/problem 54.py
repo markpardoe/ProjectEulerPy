@@ -1,6 +1,6 @@
+# https://projecteuler.net/problem=54
+
 from enum import Enum
-
-
 
 class Card:
 	

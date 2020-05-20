@@ -1,4 +1,5 @@
-#text_file = open("C:\Code\ProjectEuler\data\problem18_data.txt", "r")
+# https://projecteuler.net/problem=18
+
 text_file = open("C:\Code\ProjectEuler\data\problem67_data.txt", "r")
 lines = text_file.readlines()
 text_file.close()
